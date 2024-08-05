@@ -1,0 +1,8 @@
+func greatings (){
+  //function body
+  print()
+}
+
+func hello() -> String {
+  return "Goodbye, Mars!"
+}
